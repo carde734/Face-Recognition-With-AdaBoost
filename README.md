@@ -1,6 +1,8 @@
 # Face-Recognition-With-AdaBoost
 Implementation of the AdaBoost algorithm using Haar-like features to detect faces and non-faces images - An implementation from scratch
-
+\n
+A project developed as part of my master's at Linköping University 
+\n
 ## Haar Features 
 ![image](https://github.com/carde734/Face-Recognition-With-AdaBoost/assets/90332007/ad7f0f0d-89f7-491a-ac10-74fc5be3c4c6)
 
